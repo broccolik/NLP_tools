@@ -1,7 +1,9 @@
 # NLP_tools<br>
 
-**1.NLP理论基础<br>**
+**1.NLP理论基础-面试必会<br>**
 （1）[算法理论基础知识应知应会](https://github.com/sladesha/Reflection_Summary)<br>
+（2）[ NLP 算法工程师相关的面试题](https://github.com/songyingxin/NLPer-Interview)<br>
+（3）[NLP面试知识点和代码实现](https://github.com/NLP-LOVE/ML-NLP)<br>
 
 **2.命名实体识别<br>**
 （1）[BERT-NER-Pytorch](https://github.com/lonePatient/BERT-NER-Pytorch)<br>
@@ -22,6 +24,7 @@ Chinese Named Entity Recognition with IDCNN/biLSTM+CRF, and Relation Extraction 
 （1）[医疗知识图谱构建-问答应用](https://github.com/liuhuanyong/QASystemOnMedicalKG)<br>
 （2）[农业领域知识图谱的构建](https://github.com/zhangyqCS/KnowledgeGraph_Agriculture)<br>
 从数据爬取到图谱构建完整流程<br>
+（3）[金融领域知识图谱构建-基于kg的自动问答](https://github.com/shinezai/QASystemOnFinancialKG)<br>
 
 ##5.python学习<br>
 （1）[Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)<br>
@@ -30,7 +33,7 @@ Chinese Named Entity Recognition with IDCNN/biLSTM+CRF, and Relation Extraction 
 （1）[BERT-sentiment--classification](https://github.com/wangjiwu/BERT-sentiment--classification)<br>
 基于Tensorflow1.x微调BERT<br>
 
-**6.事件抽取**
+**6.事件抽取**<br>
 （1）[2020百度语言与智能事件抽取-多标签事件分类-ALBERT-based](https://github.com/percent4/multi-label-classification-4-event-type)<br>
 基于keras，ALBERT+GRU<br>
 （2）[金融篇章端到端事件抽取](https://github.com/dolphin-zs/Doc2EDAG)<br>
@@ -41,6 +44,8 @@ pytorch,数据集：金融公告<br>
 数据集THUCNews数据集、Sougou-Mini数据集，模型BERT+Softmax<br>
 （2）[文本二分类任务BERT](https://github.com/percent4/bert_doc_binary_classification)<br>
 keras、模型BERT+sigmoid<br>
+（3）[中文文本分类-开箱即用](https://github.com/649453932/Chinese-Text-Classification-Pytorch)<br>
+模型TextCNN，TextRNN，FastText，TextRCNN，BiLSTM_Attention, DPCNN, Transformer, 基于pytorch。
 
 **8.数据集**<br>
 （1）[公司名语料库](https://github.com/wainshine/Company-Names-Corpus)<br>
