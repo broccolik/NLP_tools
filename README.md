@@ -26,8 +26,6 @@ Chinese Named Entity Recognition with IDCNN/biLSTM+CRF, and Relation Extraction 
 从数据爬取到图谱构建完整流程<br>
 （3）[金融领域知识图谱构建-基于kg的自动问答](https://github.com/shinezai/QASystemOnFinancialKG)<br>
 
-##5.python学习<br>
-（1）[Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)<br>
 
 **5.情感分析**<br>
 （1）[BERT-sentiment--classification](https://github.com/wangjiwu/BERT-sentiment--classification)<br>
@@ -50,9 +48,10 @@ keras、模型BERT+sigmoid<br>
 **8.数据集**<br>
 （1）[公司名语料库](https://github.com/wainshine/Company-Names-Corpus)<br>
 （2）[CLUENER 细粒度命名实体识别](https://github.com/CLUEbenchmark/CLUENER2020)<br>
-（3）[非常全的古诗词数据，收录了从先秦到现代的共计85万余首古诗词]（https://github.com/Werneror/Poetry）<br>
+（3）[非常全的古诗词数据，收录了从先秦到现代的共计85万余首古诗词](https://github.com/Werneror/Poetry)<br>
 **9.对话系统**<br>
 （1）[医疗垂直领域的对话系统-基于知识图谱](https://github.com/baiyang2464/chatbot-base-on-Knowledge-Graph)<br>
 **其他**<br>
 （1）[自动纠正word中的英语单词拼写错误](https://github.com/percent4/-word-)<br>
+（2）[Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)<br>
 
