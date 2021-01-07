@@ -45,7 +45,7 @@ keras、模型BERT+sigmoid<br>
 （3）[中文文本分类-开箱即用](https://github.com/649453932/Chinese-Text-Classification-Pytorch)<br>
 模型TextCNN，TextRNN，FastText，TextRCNN，BiLSTM_Attention, DPCNN, Transformer, 基于pytorch。<br>
 （4）文本分类baseline汇总（tensorflow）<br>
-[text classfication]（https://github.com/brightmart/text_classification）<br>
+[text classfication](https://github.com/brightmart/text_classification)<br>
 
 
 **8.数据集**<br>
